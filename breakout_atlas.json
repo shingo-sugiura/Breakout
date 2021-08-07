@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "paddle1",
+            "frame": {
+                "w": 104,
+                "h": 24,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "blue1",
+            "frame": {
+                "w": 64,
+                "h": 32,
+                "x": 0,
+                "y": 24
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "red1",
+            "frame": {
+                "w": 64,
+                "h": 32,
+                "x": 0,
+                "y": 56
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "green1",
+            "frame": {
+                "w": 64,
+                "h": 32,
+                "x": 0,
+                "y": 88
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "yellow1",
+            "frame": {
+                "w": 64,
+                "h": 32,
+                "x": 104,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "silver1",
+            "frame": {
+                "w": 64,
+                "h": 32,
+                "x": 64,
+                "y": 32
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "purple1",
+            "frame": {
+                "w": 64,
+                "h": 32,
+                "x": 64,
+                "y": 64
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ball1",
+            "frame": {
+                "w": 22,
+                "h": 22,
+                "x": 64,
+                "y": 96
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
